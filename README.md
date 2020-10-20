@@ -1,48 +1,34 @@
-# NextJS Typescript Boilerplate
+オアシス宣言
+インターネットという情報の洪水の中で、オアシスの場所であることを宣言します。
 
-Bootstrap a developer-friendly NextJS app configured with:
+モットー：褒めるときは大きな声でみんなの前で、叱るときは二人きりで小さな声で。
 
-- [Typescript](https://www.typescriptlang.org/)
-- Linting with [ESLint](https://eslint.org/)
-- Formatting with [Prettier](https://prettier.io/)
-- Linting, typechecking and formatting on by default using [`husky`](https://github.com/typicode/husky) for commit hooks
-- Testing with [Jest](https://jestjs.io/) and [`react-testing-library`](https://testing-library.com/docs/react-testing-library/intro)
+1 インターネット上で翼を休める場所、砂漠の中で命の水を授かる場所を作ります。
+2 広告はユーザー側に主導権があります。
+3 共通の価値観を持った人々のオアシスという場所を作ります
+4 お互いの価値観を認めるのならば、誰もが参加できます。
+5 きれいな世界、優しい世界を守り、広めます。
+  誰もが争うことなく休憩する場所であることを目指します。
+  誰もが笑顔になれる場所です。
 
-## Deploy your own
+草稿
 
-Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-typescript-eslint-jest)
 
-## How to use
+google translate
 
-### Using `create-next-app`
+Oasis Declaration
+In the flood of information called the Internet, we declare that it is an oasis place.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+Motto: When giving up, in front of everyone in a loud voice, when speaking, with only two people and a small voice.
 
-```bash
-npx create-next-app --example with-typescript-eslint-jest with-typescript-eslint-jest-app
-# or
-yarn create next-app --example with-typescript-eslint-jest with-typescript-eslint-jest-app
-```
+1 Create a place where you can rest your wings on the Internet, and a place where you can receive water of life in the desert.
+2 Advertising is led by the user.
+3 Create an oasis of people with common values
+4 Everyone can participate if they recognize each other's values.
+5 Protect and promote a beautiful world, a kind world.
+   We aim to be a place where everyone can rest without conflict.
+   It is a place where everyone can smile.
 
-### Download manually
+draft
 
-Download the example:
-
-```bash
-curl https://codeload.github.com/vercel/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-typescript-eslint-jest
-cd with-typescript-eslint-jest
-```
-
-Install it and run:
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
